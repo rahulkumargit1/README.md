@@ -1,4 +1,4 @@
-![](https://github.com/rahulkumargit1/README.md/blob/main/GITHUB.jpg)
+   ![](https://github.com/rahulkumargit1/README.md/blob/main/GITHUB.jpg)
 # Rahul Kumar
 ### CSE Student | Data Science and Web Development Enthusiast | Eager To Explore New Technologies
 
